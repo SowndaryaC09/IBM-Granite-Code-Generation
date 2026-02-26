@@ -29,5 +29,3 @@ The generated application creates a simple bookstore interface called **Reader's
 ## File
 - sd_learn_cgo_lab1.ipynb → Main notebook file
 
-## Author
-Sowndarya C
